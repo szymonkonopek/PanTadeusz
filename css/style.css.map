@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,eADW,CACX,GAAG,CAAA;EACC,OAAO,EAAC,IACZ;CAAC;;AAGL,AAAA,KAAK,CAAA;EACD,MAAM,EAAE,KAAK;CAChB",
+    "sources": [
+        "../../PanTadeusz/scss/style.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
